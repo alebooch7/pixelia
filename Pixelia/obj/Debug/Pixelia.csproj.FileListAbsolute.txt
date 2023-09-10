@@ -1,0 +1,75 @@
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\Pixelia.exe.config
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\Pixelia.exe
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\Pixelia.pdb
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.AssemblyReference.cache
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.Properties.Resources.resources
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.GenerateResource.cache
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CoreCompileInputs.cache
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CopyComplete
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.exe
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.pdb
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.tienda.resources
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.Login.resources
+C:\Users\Alejo Chavez\source\repos\Pixelia\Pixelia\obj\Debug\Pixelia.Form1.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.exe.config
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.exe
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.pdb
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.AssemblyReference.cache
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Menu.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Login.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Properties.Resources.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.GenerateResource.cache
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CoreCompileInputs.cache
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CopyComplete
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.exe
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.pdb
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.crearuser.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Passf.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.exe.config
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.exe
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\Pixelia.pdb
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.AssemblyReference.cache
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.crearuser.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Juegosdisp.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Menu.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Login.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Passf.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Properties.Resources.resources
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.GenerateResource.cache
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CoreCompileInputs.cache
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CopyComplete
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.exe
+C:\Users\Alejo Chavez\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.pdb
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Comprar.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.Juegosdisp.resources
+C:\Users\Alech\OneDrive\Pixelia\Pixelia\obj\Debug\Pixelia.recomendacion.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\bin\Debug\Pixelia.exe.config
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\bin\Debug\Pixelia.exe
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\bin\Debug\Pixelia.pdb
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.crearuser.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.Juegosdisp.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.Menu.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.Login.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.Passf.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.recomendacion.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.exe
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.pdb
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.factura.resources
+C:\Users\USUARIO\Downloads\Pixelia\Pixelia\Pixelia\obj\Debug\Pixelia.compras.resources
